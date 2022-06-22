@@ -27,7 +27,7 @@ steps:
   cloudFoundryDeploy:
     cloudFoundry:
       apiEndpoint: "https://api.cf.us10.hana.ondemand.com" # please verify if this is your API endpoint. If not, please change it
-      org: "d885dfc8trial" # add your org here
+      org: "e14746d9trial_sample-dyitab9n" # add your org here
       space: "dev" # add your space here
       credentialsId: "cfdeploy"
       appName: ""
